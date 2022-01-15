@@ -1,0 +1,9 @@
+link to dataset : https://www.kaggle.com/c/carvana-image-masking-challenge/data
+
+download the data from kaggle and put in folders. Extract the zips(train.zip, train_masks.zip, test.zip, etc.
+) from dataset and finally you should have 4 folders:
+
+- train_images
+- train_masks
+- val_images
+- val_masks
